@@ -96,7 +96,14 @@ pip install pandas scikit-learn fastapi uvicorn mlflow streamlit pydantic seabor
 
 ## 📸 Screenshots
 
-![dashboard preview](https://via.placeholder.com/800x400?text=Streamlit+Dashboard)
+### 🔹 Dashboard UI
+![Screenshot 1](Screenshot1.png)
+
+### 🔹 Feature Importance
+![Screenshot 2](Screenshot2.png)
+
+### 🔹 Prediction Playground
+![Screenshot 3](Screenshot3.png)
 
 ---
 
