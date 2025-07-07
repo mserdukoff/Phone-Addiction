@@ -1,0 +1,10 @@
+artifact_location: file:///home/matt/Desktop/Programming/phoneaddiction/mlruns/810239861760966486/models/m-b392f09d93f247459d1ea6d110bc58a2/artifacts
+creation_timestamp: 1751908045979
+experiment_id: '810239861760966486'
+last_updated_timestamp: 1751908047027
+model_id: m-b392f09d93f247459d1ea6d110bc58a2
+model_type: null
+name: model
+source_run_id: dc7f79cb8211456d98fa73cde7d1566d
+status: 2
+status_message: null

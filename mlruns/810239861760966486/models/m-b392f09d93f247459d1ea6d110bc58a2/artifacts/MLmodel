@@ -1,0 +1,22 @@
+artifact_path: file:///home/matt/Desktop/Programming/phoneaddiction/mlruns/810239861760966486/models/m-b392f09d93f247459d1ea6d110bc58a2/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.0
+mlflow_version: 3.1.1
+model_id: m-b392f09d93f247459d1ea6d110bc58a2
+model_size_bytes: 11137608
+model_uuid: m-b392f09d93f247459d1ea6d110bc58a2
+prompts: null
+run_id: dc7f79cb8211456d98fa73cde7d1566d
+utc_time_created: '2025-07-07 17:07:25.983165'

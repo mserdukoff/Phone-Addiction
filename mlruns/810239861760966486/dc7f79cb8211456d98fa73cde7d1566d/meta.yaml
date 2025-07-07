@@ -1,0 +1,14 @@
+artifact_uri: file:///home/matt/Desktop/Programming/phoneaddiction/mlruns/810239861760966486/dc7f79cb8211456d98fa73cde7d1566d/artifacts
+end_time: 1751908047028
+entry_point_name: ''
+experiment_id: '810239861760966486'
+lifecycle_stage: active
+run_id: dc7f79cb8211456d98fa73cde7d1566d
+run_name: valuable-kite-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751908045097
+status: 3
+tags: []
+user_id: matt
